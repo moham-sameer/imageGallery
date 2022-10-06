@@ -10,3 +10,5 @@
 
 * Filter function - images can be filtered by categories food items, animals, places and many more
 * API - I have Called an API through which these data are modified and presented.
+## Deployed On:
+   <p align="left">  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/Netlify/Netlify-Logo.wine.png" alt="tailwind" width="90" height="80"/> </a> </p>
