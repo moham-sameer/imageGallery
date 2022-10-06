@@ -1,4 +1,4 @@
-#  Image Gallery
+#  Image Gallery 🏖️
 
 [Visit now](https://samsimage.netlify.app)
 
